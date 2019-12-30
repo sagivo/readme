@@ -67,7 +67,7 @@ If it’s not urgent, ask yourself - how important it is. For me, it’s hard to
 -   Push-based communications - I prefer you to push information to me rather than having to pull it. This will be seen to be working best if I never ask for a status update on a project, or ask for outcomes from a meeting/discussion.
 -   Feedback - I care about doing a good job, and I care about those things that are important to my role above - if you feel I'm not delivering on those, or I could be doing so more effectively, I will genuinely appreciate and value any feedback you have for me.
 -   Trust/autonomy - I will default to a trust/autonomy mindset for our working relationship. I'm happy to get more involved in checking things if you need me to, but I really like the 'leader/leader' mindset from '[turn the ship around](https://www.youtube.com/watch?v=OqmdLcyES_Q)'. Tell me what you intend to do, share, communicate, and I'll let you know if I have any concerns.
--   Collaboration - I love people who work together to achieve a better flow of work. This is true not only within the team but working with others outside of the team. Collaboration and sharing is a cornerstone to us build better relationships.
+-   Collaboration - I love people who work together to achieve a better flow of work. This is true not only within the team but working with others outside of the team. Collaboration and sharing are a cornerstone to us build better relationships.
 -   Perseverance - failure happens. That's absolutely ok. The best people will learn from that failure and move forward, and their attitude will rarely steer into the negative.
 
 ## You
@@ -76,15 +76,15 @@ If it’s not urgent, ask yourself - how important it is. For me, it’s hard to
 
 Please reach out and tell me if anything, at all, feels off. It’s so much harder to solve problems when we’re guessing what they are. I’ll never consider proactively speaking up about challenges as a sign of complaining. I really value hearing your honest, transparent thoughts about how we can learn and grow together. You don’t have to have a solution for it but if you think you do - even better!
 
-I know that I will make mistakes, and I'm going to make decisions that are wrong. I promise you that if you come to me and you explain why something is wrong, I will listen, and I will fix it.
+I know that I will make mistakes, and might have some wrong decisions. I promise you that if you come to me and you explain why something is wrong, I will listen, and I will fix it.
 
--   I expect you to follow up on commitments you make. When you have to break a commitment, do so explicitly and let us know.
+-   I expect you to follow up on the commitments you make. When you have to break a commitment, do so explicitly and let us know.
     
 -   I expect us to make mistakes. I also expect us to learn from those mistakes by writing up what happened, sharing it and asking for help in interpreting it and making changes to avoid that same mistake in the future.
     
 -   I expect you to be open with me. I know it’s hard to do it right away so I plan to build trust and get to know you first.
     
--   I expect you to think thoroughly about problems, and even come up with possible solutions, before you come to me so we can find the best solution together.
+-   I expect you to think thoroughly about problems, and even come up with possible solutions before you come to me so we can find the best solution together.
     
 -   I expect you to push the team up. Spread around good energy, help your teammates and be a team player.
 
@@ -100,7 +100,7 @@ This will set you up to get to this by day 90:
 
 -   You feel productive - you can take on small projects without a lot of guidance or repeatedly looking at reference materials.
     
--   You are helpful across organization - you can answer other people's questions about some questions and you know who to defer to for those you don't know the answer to.
+-   You are helpful across the organization - you can answer other people's questions about some questions and you know who to defer to for those you don't know the answer to.
     
 -   You've built some level of trust with peers and vice versa, having established credibility with them through your strengths and theirs.
     
@@ -112,11 +112,11 @@ I usually ask for feedback and insights on how the team is doing. It’s critica
 
 ### 1:1s
 
-We can get a great deal of value from one to ones. It's very much is your meeting and your agenda.
+It's very much is your meeting and your agenda. 
 
 I'll always have questions and comments, but we'll focus on what you want to talk about first, so please come to these meetings prepared.
 
-I'll ensure I give you any wider context from the business, though this is secondary. Some key things I really care about during that time though. In particular, how you're doing and if there's anything you need from me.
+I'll ensure I give you any wider context from the business, though this is secondary. 
 
 These aren't our only opportunities to chat through, and if you need to catch up with me for anything else outside of these, please do so.
 
