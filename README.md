@@ -122,5 +122,5 @@ These aren't our only opportunities to chat through, and if you need to catch up
 
 [(Read more about my 1:1 style here)](https://github.com/sagivo/readme/blob/master/oneonone.md)
 
-I’m happy to have you part of the team and I look forward to working with you,
+I’m happy to have you part of the team and I look forward to working with you,  
 *Sagiv*
