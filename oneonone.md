@@ -1,6 +1,6 @@
 # Sagiv's 1:1
 
-Awesome, we have a 1:1 - a dedicated slot in our time to talk about anything you like 🎉
+Awesome, we have a 1:1 - a dedicated slot in our time to talk about anything you like 🎉 
 It is **your time**.  Everything below is a suggestion only and you have full control over how you want this meeting to run. 
 
 ## Format
