@@ -120,7 +120,7 @@ I'll ensure I give you any wider context from the business, though this is secon
 
 These aren't our only opportunities to chat through, and if you need to catch up with me for anything else outside of these, please do so.
 
-[(Read more about my 1:1 style here)](https://fb.quip.com/dLsXA1iFMlTI)
+[(Read more about my 1:1 style here)](https://github.com/sagivo/readme/blob/master/oneonone.md)
 
 I’m happy to have you part of the team and I look forward to working with you,
 *Sagiv*
