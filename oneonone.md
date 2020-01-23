@@ -23,7 +23,7 @@ I find this format to work best at the beginning when we get to know each other.
   
 - I booked us a room but we can also take a walk, go outside or find a couch - up to you! If we're doing it over a VC, please make sure I can see you. It's important to have "face-to-face" time. 
 
-- Please come on time. We only have 30 so let's use all of it. If you're more than 5 min late I would expect you to let me know in advance. 
+- Please come on time. We only have 30 minutes so let's use all of it. If you're more than 5 min late I would expect you to let me know in advance. 
   
 I'm looking forward to getting to know you better each week, 
 
