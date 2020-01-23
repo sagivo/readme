@@ -13,15 +13,17 @@ I find this format to work best at the beginning when we get to know each other.
 
 - This meeting is important. I will try my best not to cancel it. If you need to reschedule please let me know.
   
-- This meeting is not for urgent things. please don't wait till our weekly 1:1 if you need something important.
+- This meeting is not for urgent things. Please don't wait till our weekly 1:1 if you need something important.
   
-- It's ok to talk about *anything* you like. don't feel obligated to talk only about work. we can always find time to talk about work outside of this 1:1.
+- It's ok to talk about *anything* you like. Don't feel obligated to talk only about work. we can always find time to talk about work outside of this 1:1.
   
 - If you think you need more time or meet more often please do it! My calendar is yours, feel free to put a meeting anytime you like. If I don't have time let me know and I will make time.
   
 - No laptops! yes, no laptops/phones/pagers/fax/telekinesis or any other distraction devices. Your time is valuable and it's important to have uninterrupted time with each other. Pen & paper can be a great alternative.
   
 - I booked us a room but we can also take a walk, go outside or find a couch - up to you! If we're doing it over a VC, please make sure I can see you. It's important to have "face-to-face" time. 
+
+- Please come on time. We only have 30 so let's use all of it. If you're more than 5 min late I would expect you to let me know in advance. 
   
 I'm looking forward to getting to know you better each week, 
 
