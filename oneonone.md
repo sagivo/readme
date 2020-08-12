@@ -44,10 +44,12 @@ If it’s not urgent, ask yourself - how important it is. For me, it’s hard to
     
 ### Good to know about me
 
-Short history: I started as a software engineer after (and while) my CS degree. I worked in healthcare, entertainment and gaming companies. I also started 3 companies across Israel, Brazil and the US. I lead engineering teams at my startups, RBI and Facebook. At Facebook I worked on the Facebook stories product, reaching billion users at scale.  
+Short history: I started as a software engineer after (and while) my CS degree. I worked in healthcare, entertainment and gaming companies. I also started 3 companies across Israel, Brazil and the US. I lead engineering teams at my startups, RBI and Facebook. At Facebook I worked on the Facebook stories product, reaching a billion users at scale.  
 
 -   I’m originally from Israel so while I speak Hebrew, Georgian, Arabic and Spanish - English is not my main language. I might slip sometimes, write an email with a spelling mistake, typo or grammatical error. Please don’t hesitate to correct me, I will appreciate it. When we communicate, things can get lost in translation. If you find something is not clear enough - please ask me to clarify.  
-Being an Israeli can also come with some culture differences. I can be direct at times. I find these images to highlight some culture differences in a funny-yet-acurate way. Please don't assitate to let me know if you need me to adopt to your culture more. 
+
+Being an Israeli can also come with some culture differences. I can be too direct at times. I usually err on the side of full transparency when I deliver feedback. I also know that I have tedency to focus on growth areas and I can do more to highlight the positive. Please let me know if you feel that way. 
+I find these images to highlight some culture differences in a funny-yet-acurate way. Please don't hesitate to let me know if you need me to adopt to your culture more.
 
 ![communication style](communication-style.jpg?raw=true "communication style")
 
