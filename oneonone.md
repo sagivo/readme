@@ -1,597 +1,132 @@
-# Sagiv's 1:1
+# Sagiv's README
 
-Awesome, we have a 1:1 - a dedicated slot in our time to talk about anything you like 🎉  
-It is **your time**.  Everything below is a suggestion only and you have full control over how you want this meeting to run. 
+## Context
 
-## Format
-I find this format to work best at the beginning when we get to know each other. As we progress, from time to time, we can adjust it based on your feedback. This format is based on 30 minutes. If you need more time we can adjust. 
-- [~5 min] **Let's get to know each other.** Choose any question to ask me from the list below. I will ask you the same question as well.
-- [~20 min] **Your time**. We will talk about anything you like. Really, anything you like. We can talk about your career goals, the meaning of life or how come socks always disappear in the washing machine. 
--  [~5 min] - updates/requests from my side.
- 
-## Few Things
+### Motivation
 
-- This meeting is important. I will try my best not to cancel it. If you need to reschedule please let me know.
-  
-- This meeting is not for urgent things. Please don't wait till our weekly 1:1 if you need something important.
-  
-- It's ok to talk about *anything* you like. Don't feel obligated to talk only about work. we can always find time to talk about work outside of this 1:1.
-  
-- If you think you need more time or meet more often please do it! My calendar is yours, feel free to put a meeting anytime you like. If I don't have time let me know and I will make time.
-  
-- No laptops! yes, no laptops/phones/pagers/fax/telekinesis or any other distraction devices. Your time is valuable and it's important to have uninterrupted time with each other. Pen & paper can be a great alternative.
-  
-- I booked us a room but we can also take a walk, go outside or find a couch - up to you! If we're doing it over a VC, please make sure I can see you. It's important to have "face-to-face" time. 
+This document is my attempt to put down in writing everything that defines who I am, what I value, and what I expect when you work with me. The primary audience for this document is anyone who is on one of my teams, though everyone else is free to read and feedback on it.
 
-- Please come on time. We only have 30 minutes so let's use all of it. If you're more than 5 min late I would expect you to let me know in advance. 
-  
-I'm looking forward to getting to know you better each week, 
+I've been steadily evolving my approach to leadership over the past few years, and this document attempts to distill the important parts of that into something that's easy to consume.
 
+Please treat this as a reference and a promise on how I will conduct myself as a lead, and a guide on what I expect from you. I urge you to hold me accountable to my promises and to call out anything that might be missing from this document. Your guidance can help me improve.
+
+### My role
+
+My role is to create diverse teams with the skills and the space to execute on big goals, and then keep them pointed in the right direction. I believe the very best products are built when there is a strong connection between engineering, product, and design.
+
+I’m here to support you and I want to make sure you get the most out of working here with us.
+I know I’m doing a good job if you’re happy, challenged, growing, know your goals and being effective at work.
+
+My other responsibilities are:
+
+-   Making sure the team is aligned to the business goals and working towards those as effectively as they can be.
+    
+-   Delivering value to the business using the team - that value is generally focussed around the customer, but could equally be driven around internal metrics too.
+    
+-   Making sure we're working on the right things at the right time.
+    
+-   Representing the team, and the business both internally and externally.
+
+## Me
+
+### Communication
+
+I understand that different people have different preferences of communications. Having said that, here are my default ways:
+
+-   In person - personal meetings are by far the best and preferred way for me to communicate. If we’re not at the same location, VC will be almost as good.
+-   Voice call.
+-   Chat - more casual issues. Remember - a good gif is worth a thousand words.
+-   Emails - to avoid distractions I check emails only at specific intervals during the day so I might respond with a short delay. Please cc me in an email only when relevant. Please keep it as short as you can - if you can write the same msg with fewer paragraphs please do.
+    
+How to know when to use what? First, always default to 1:1 if you can wait, as I always prefer in-person conversations. If it’s urgent just ask to talk, call me or send SMS.
+
+If it’s not urgent, ask yourself - how important it is. For me, it’s hard to ignore emails while it’s hard to follow chat threads so that usually dictates which platform of use. Edmund explains it even better [here](https://www.tomheon.com/2017/12/06/when-to-slack-me-when-to-email-me/).
+    
+### Good to know about me
+
+Short history: I started as a software engineer after (and while) my CS degree. I worked in healthcare, entertainment and gaming companies. I also started 3 companies across Israel, Brazil and the US. I lead engineering teams at my startups, RBI and Facebook. At Facebook I worked on the Facebook stories product, reaching billion users at scale.  
+
+-   I’m originally from Israel so while I speak Hebrew, Georgian, Arabic and Spanish - English is not my main language. I might slip sometimes, write an email with a spelling mistake, typo or grammatical error. Please don’t hesitate to correct me, I will appreciate it. When we communicate, things can get lost in translation. If you find something is not clear enough - please ask me to clarify.  
+Being an Israeli can also come with some culture differences. I can be direct at times. I find these images to highlight some culture differences in a funny-yet-acurate way. Please don't assitate to let me know if you need me to adopt to your culture more. 
+
+![communication style](communication-style.jpg?raw=true "communication style")
+
+    
+-   [According to my wife] I have a grumpy look. I’m not grumpy it’s just my face and there’s not much I can do about it. You can be rest assured it has nothing to do with you or the company. If I’m working with you it means I like it and I’m happy otherwise I won't do it.
+-   I cannot do or ask other people to do something I don’t believe in.
+-   I’m a startup guy - I started 3 companies and I love the startup mindset. I like to move fast, think outside the box and keep iterating. “Ok” now is better than “perfect” never. I will not let red tape to slow us down.
+    
+-   I served as an officer in a special forces unit. I learned a lot from it and I hope to implement a few things I’ve learned there. I know the value of having a team of highly talented individuals working together. A good team can achieve amazing results and push the boundaries every single day.
+    
+-   When I look at a person I look at her/him as part of a team. Your contribution to the team is as important as any individual contribution. The team is here to support you and you are here to support the team. The whole is greater than the sum of its parts.
+    
+-   Family comes first. I believe that in order to be a good, productive employee you have to have a strong healthy base at home. I find keeping a good WLB critical for a good career. I will not expect you to be available on weekends or PTO unless it’s urgent.
+    
+-   I will repeat myself - especially around wider business context, 'why', and when we're going through any sort of learnings as a team. If even half of what I've said is any clearer for this, I think it's worth it.
+    
+### What I value
+
+-   People - I spent a lot of my earlier career caring more about the software than the people, and it didn't serve me well. Our people (the team, and those of the wider organization) are the main reason we're successful, and I care massively about the happiness of the team. There’s a phrase in the Israeli army: “The human inside the tank will win”. It’s not about the tools but about the person who uses them.
+-   Action - show, don’t tell.
+-   Ownership and accountability - I take ownership and accountability for my work, and I value it in others. Owning a problem, a business area, or whatever it is you're doing, and making it your own removes my need to do so, and reduces the chances of me becoming a bottleneck in any communications.
+-   Continuous improvement - I spend time trying to be the best I can - I've done it throughout my career from being a junior developer through to now. I expect you to do the same both on regular work and in your protected time, and much as I'll help and support you while you work on that improvement, I expect that improvement to be driven by you.
+-   Push-based communications - I prefer you to push information to me rather than having to pull it. This will be seen to be working best if I never ask for a status update on a project, or ask for outcomes from a meeting/discussion.
+-   Feedback - I care about doing a good job, and I care about those things that are important to my role above - if you feel I'm not delivering on those, or I could be doing so more effectively, I will genuinely appreciate and value any feedback you have for me.
+-   Trust/autonomy - I will default to a trust/autonomy mindset for our working relationship. I'm happy to get more involved in checking things if you need me to, but I really like the 'leader/leader' mindset from '[turn the ship around](https://www.youtube.com/watch?v=OqmdLcyES_Q)'. Tell me what you intend to do, share, communicate, and I'll let you know if I have any concerns.
+-   Collaboration - I love people who work together to achieve a better flow of work. This is true not only within the team but working with others outside of the team. Collaboration and sharing are a cornerstone to us build better relationships.
+-   Perseverance - failure happens. That's absolutely ok. The best people will learn from that failure and move forward, and their attitude will rarely steer into the negative.
+
+## You
+
+### My expectations
+
+Please reach out and tell me if anything, at all, feels off. It’s so much harder to solve problems when we’re guessing what they are. I’ll never consider proactively speaking up about challenges as a sign of complaining. I really value hearing your honest, transparent thoughts about how we can learn and grow together. You don’t have to have a solution for it but if you think you do - even better!
+
+I know that I will make mistakes, and might have some wrong decisions. I promise you that if you come to me and you explain why something is wrong, I will listen, and I will fix it.
+
+-   I expect you to follow up on the commitments you make. When you have to break a commitment, do so explicitly and let us know.
+    
+-   I expect us to make mistakes. I also expect us to learn from those mistakes by writing up what happened, sharing it and asking for help in interpreting it and making changes to avoid that same mistake in the future.
+    
+-   I expect you to be open with me. I know it’s hard to do it right away so I plan to build trust and get to know you first.
+    
+-   I expect you to think thoroughly about problems, and even come up with possible solutions before you come to me so we can find the best solution together.
+    
+-   I expect you to push the team up. Spread around good energy, help your teammates and be a team player.
+
+### Personal Development Reviews
+
+These are managed away from the one to ones and are a way of you structuring your career progression. I will help you align what you wish to progress in with the overall business goals, though I will not drive these (in the same way I will not drive your career progression) - I'm here to mentor, support, and encourage, and ensure that the business adds it's formal support to your learning/development pathway.
+
+### Where to focus on your first 90 days?
+
+Your first 30 days are about learning your way around. Set up all the tools, get to the point where you can follow along with conversations and building a rapport with your teammates and stakeholders.
+
+This will set you up to get to this by day 90:
+
+-   You feel productive - you can take on small projects without a lot of guidance or repeatedly looking at reference materials.
+    
+-   You are helpful across the organization - you can answer other people's questions about some questions and you know who to defer to for those you don't know the answer to.
+    
+-   You've built some level of trust with peers and vice versa, having established credibility with them through your strengths and theirs.
+    
+### Skip-Levels
+
+I do skip-level 1:1 meetings with engineers on a revolving basis. The skip-level 1:1 is not to overstep the direct manager.
+
+I usually ask for feedback and insights on how the team is doing. It’s critical to our success that we create an environment where anyone can feel safe to share feedback. We want everyone to grow, and often the best mechanism for that is being transparent and honest. The goal of these meetings is to give the engineers a time and place to do that. A secondary goal of these meetings is for you to get to know me, and vice versa. Or to get to know more about the business and our strategy.
+
+### 1:1s
+
+It's very much is your meeting and your agenda. 
+
+I'll always have questions and comments, but we'll focus on what you want to talk about first, so please come to these meetings prepared.
+
+I'll ensure I give you any wider context from the business, though this is secondary. 
+
+These aren't our only opportunities to chat through, and if you need to catch up with me for anything else outside of these, please do so.
+
+[(Read more about my 1:1 style here)](https://github.com/sagivo/readme/blob/master/oneonone.md)
+
+I’m happy to have you part of the team and I look forward to working with you,  
 *Sagiv*
-  
-
-## Opening Questions
-
-Do you have other questions? Great, I would love to get a pull request!
-
-- Which three words describe you best?
-
-- Which is your best feature?
-
-- Which common saying or phrase describes you?
-
-- What’s the best thing that’s happened to you this week?
-
-- Who was your role model when you were a child?
-
-- Who was your favorite teacher and why?
-
-- What was your favorite subject at school?
-
-- What did you want to be when you grew up?
-
-- Why are you here today?
-
-- What would be your perfect job?
-
-- What is your greatest achievement?
-
-- Have you ever won a trophy or medal?
-
-- What is the longest word you know?
-
-- Who is the most inspirational person to you?
-
-- What is the best praise or advice you’ve received?
-
-- Which would you prefer — three wishes over five years or one wish right now?
-
-- If you could have one wish come true what would it be?
-
-- Did you ever keep a New Year’s resolution?
-
-- What was your favorite birthday or Christmas present?
-
-- What was the worst present you’ve received?
-
-- What was your favorite childhood toy?
-
-- Where would you like to be in five years time?
-
-- Which skill would you love to learn?
-
-- Which language would you like to learn?
-
-- If money was not a concern what would you do every day if you didn’t work?
-
-- What’s your hidden talent?
-
-- What was the funniest moment in your life?
-
-- What was the most embarrassing moment in your life?
-
-- Have you seen a ghost or an alien?
-
-- Would you like to see into the future? Why?
-
-- Would you like to be invisible for a day? Why?
-
-- If you could rule the world for a day state something that you’d ban.
-
-- If you had magical powers name something that you’d change.
-
-- Would you rather be clever or beautiful?
-
-- Would you rather be really hairy or bald?
-
-- Would you like to be taller or thinner?
-
-- What irritates you the most?
-
-- Have you gone out with mismatched socks or shoes on?
-
-- Where would you love to go on holiday?
-
-- Why would you like to go to a tropical island or the Arctic more?
-
-- Where would you most like to live?
-
-- Which planet in the solar system would you visit?
-
-- Which animal would you choose to be?
-
-- If you were a flower which one would you be?
-
-- If you were a tree which one would you be?
-
-- Have you baked a cake, who for and was it a success?
-
-- What flavor ice cream would you be?
-
-- Which chocolate bar is most like you?
-
-- What is your favorite food?
-
-- What is your favorite drink?
-
-- Would you rather be an apple or an orange?
-
-- What fruit or vegetable would you be?
-
-- Would you rather be a hot or a cold drink?
-
-- Which task or chore is your favorite?
-
-- Which task or chore is least favorite?
-
-- Which office machine is your favorite?
-
-- What type of car would you be?
-
-- Did you ever lock your car keys in the car?
-
-- Have you locked yourself out of the house?
-
-- Would you rather lock yourself out of your house or your car?
-
-- Have you gone in to a room and forgotten why?
-
-- If you could have true love or £1 million which would you choose?
-
-- What is your favorite TV show and why?
-
-- What is your favorite song?
-
-- What is your favorite book?
-
-- What is your favorite film?
-
-- What is the best chat up line you’ve heard or had said to you?
-
-- Who would you like to be for a day?
-
-- Who would you choose to be marooned on a desert island with?
-
-- Who would play you in a film?
-
-- Which famous person would you like to meet?
-
-- Which famous person would you never want to meet?
-
-- If you could invite five famous or noted people (past or present) to dinner who would you choose?
-
-- Which time period would you visit in history?
-
-- Would you prefer to visit Earth in 2100 or travel back to 1900?
-
-- Which person from history would you most like to meet?
-
-- What’s your favorite piece of clothing you own / owned?
-
-- What hobby would you get into if time and money weren’t an issue?
-
-- What would your perfect room look like?
-
-- How often do you play sports?
-
-- What fictional place would you most like to go?
-
-- What job would you be terrible at?
-
-- When was the last time you climbed a tree?
-
-- If you could turn any activity into an Olympic sport, what would you have a good chance at winning medal for?
-
-- What is the most annoying habit that other people have?
-
-- What job do you think you’d be really good at?
-
-- What skill would you like to master?
-
-- What would be the most amazing adventure to go on?
-
-- If you had unlimited funds to build a house that you would live in for the rest of your life, what would the finished house be - like?
-
-- What’s your favorite drink?
-
-- What state or country do you never want to go back to?
-
-- What songs have you completely memorized?
-
-- What game or movie universe would you most like to live in?
-
-- What do you consider to be your best find?
-
-- Are you usually early or late?
-
-- What pets did you have while you were growing up?
-
-- When people come to you for help, what do they usually want help with?
-
-- What takes up too much of your time?
-
-- What do you wish you knew more about?
-
-- What would be your first question after waking up from being cryogenically frozen for 100 years?
-
-- What are some small things that make your day better?
-
-- Who’s your go to band or artist when you can’t decide on something to listen to?
-
-- What shows are you into?
-
-- What TV channel doesn’t exist but really should?
-
-- Who has impressed you most with what they’ve accomplished?
-
-- What age do you wish you could permanently be?
-
-- What TV show or movie do you refuse to watch?
-
-- What would be your ideal way to spend the weekend?
-
-- What is something that is considered a luxury, but you don’t think you could live without?
-
-- What’s your claim to fame?
-
-- What’s something you like to do the old-fashioned way?
-
-- What’s your favorite genre of book or movie?
-
-- How often do you people watch?
-
-- What have you only recently formed an opinion about?
-
-- What’s the best single day on the calendar?
-
-- What are you interested in that most people haven’t heard of?
-
-- How do you relax after a hard day of work?
-
-- What was the best book or series that you’ve ever read?
-
-- What’s the farthest you’ve ever been from home?
-
-- What is the most heartwarming thing you’ve ever seen?
-
-- What is the most annoying question that people ask you?
-
-- What could you give a 40-minute presentation on with absolutely no preparation?
-
-- If you were dictator of a small island nation, what crazy dictator stuff would you do?
-
-- What is something you think everyone should do at least once in their lives?
-
-- Would you rather go hang gliding or whitewater rafting?
-
-- What’s your dream car?
-
-- What’s worth spending more on to get the best?
-
-- What is something that a ton of people are obsessed with but you just don’t get the point of?
-
-- What are you most looking forward to in the next 10 years?
-
-- Where is the most interesting place you’ve been?
-
-- What’s something you’ve been meaning to try but just haven’t gotten around to it?
-
-- What’s the best thing that happened to you last week?
-
-- What piece of entertainment do you wish you could erase from your mind so that you could experience for the first time again?
-
-- If all jobs had the same pay and hours, what job would you like to have?
-
-- What amazing thing did you do that no one was around to see?
-
-- How different was your life one year ago?
-
-- What’s the best way to start the day?
-
-- What quirks do you have?
-
-- What would you rate 10 / 10?
-
-- What fad or trend do you hope comes back?
-
-- What’s the most interesting piece of art you’ve seen?
-
-- What kind of art do you enjoy most?
-
-- What do you hope never changes?
-
-- What city would you most like to live in?
-
-- What movie title best describes your life?
-
-- Why did you decide to do the work you are doing now?
-
-- What’s the best way a person can spend their time?
-
-- If you suddenly became a master at woodworking, what would you make?
-
-- Where is the most relaxing place you’ve ever been?
-
-- What is the luckiest thing that has happened to you?
-
-- Where would you rather be from?
-
-- What are some things you’ve had to unlearn?
-
-- What are you looking forward to in the coming months?
-
-- What website do you visit most often?
-
-- What one thing do you really want but can’t afford?
-
-- Where do you usually go when you when you have time off?
-
-- Where would you spend all your time if you could?
-
-- What is special about the place you grew up?
-
-- What age do you want to live to?
-
-- What are you most likely to become famous for?
-
-- What are you absolutely determined to do?
-
-- What is the most impressive thing you know how to do?
-
-- What do you wish you knew more about?
-
-- What question would you most like to know the answer to?
-
-- What question can you ask to find out the most about a person?
-
-- When was the last time you changed your opinion / belief about something major?
-
-- What was the best compliment you’ve received?
-
-- As the only human left on Earth, what would you do?
-
-- Who inspires you to be better?
-
-- What do you want your epitaph to be?
-
-- What did you think you would grow out of but haven’t?
-
-- In what situation or place would you feel the most out of place in?
-
-- What’s the dumbest thing you’ve done that actually turned out pretty well?
-
-- They say that everyone has a book in them. What would your book be about?
-
-- What is something you will NEVER do again?
-
-- What do you spend the most time thinking about?
-
-- What are some of the events in your life that made you who you are?
-
-- What do you wish your brain was better at doing?
-
-- There are two types of people in this world. What are the two types?
-
-- What is the strangest thing you have come across?
-
-- What is something you are certain you’ll never experience?
-
-- What dumb accomplishment are you most proud of?
-
-- If you could make one rule that everyone had to follow, what rule would you make?
-
-- What are you addicted to?
-
-- What stereotype do you completely live up to?
-
-- What is something you can never seem to finish?
-
-- As you get older, what are you becoming more and more afraid of?
-
-- What is one of your favorite smells?
-
-- What would be the scariest monster you could imagine?
-
-- What song or artist do you like but rarely admit to liking?
-
-- What would you do if you knew you were going to die in one hour?
-
-- What book impacted you the most?
-
-- If you had to change your name, what would you change it to?
-
-- If life is a game, like some people say, what are some of the rules?
-
-- Who is / was your most interesting friend?
-
-- Have you ever given to any charities?
-
-- What is something that your friends would consider “so you”?
-
-- What risks are worth taking?
-
-- What can you not get right, no matter how many times you try?
-
-- If you could convince everyone in the world to do one thing at one point in time, what would that thing be?
-
-- What do you take for granted?
-
-- What would be some of the most annoying things about having yourself as a roommate?
-
-- What’s something you are self-conscious about?
-
-- What personality trait do you value most and which do you dislike the most?
-
-- What small gesture from a stranger made a big impact on you?
-
-- What gets you fired up?
-
-- What challenging thing are you working through these days?
-
-- What irrational fear do you have?
-
-- What’s the best and worst piece of advice you’ve ever received?
-
-- If you had a clock that would countdown to any one event of your choosing, what event would you want it to countdown to?
-
-- What makes a good life?
-
-- What do you strongly suspect but have no proof of?
-
-- What’s the last adventure you went on?
-
-- When do you feel truly “alive”?
-
-- What was the most memorable gift you’ve received?
-
-- What chapters would you separate your autobiography into?
-
-- What do you like most about your family?
-
-- What do you hope your last words will be?
-
-- What stat for your life would you most like to see?
-
-- What are three of the most significant numbers in your life?
-
-- What could you do with two million dollars to impact the most amount of people?
-
-- If you were put into solitary confinement for six months, what would you do to stay sane?
-
-- What’s something horrible that everyone should try at least once?
-
-- What fact are your resigned to?
-
-- Have you ever saved someone’s life?
-
-- What were some of the turning points in your life?
-
-- What would a mirror opposite of yourself be like?
-
-- What are you really good at, but kind of embarrassed that you are good at it?
-
-- What are three interesting facts about you?
-
-- Which of your scars has the best story behind it?
-
-- What’s the title of the current chapter of your life?
-
-- What’s the hardest lesson you’ve learned?
-
-- What mistake do you keep making again and again?
-
-- What do people think is weird about you?
-
-- When people look at you, what do you think they see / think?
-
-- What have you created that you are most proud of?
-
-- If you could make a 20 second phone call to yourself at any point in your life present or future, when would you call and what - would you say?
-
-- What annoys you most about the in-groups you are a part of?
-
-- What do you have doubts about?
-
-- What do you want to be remembered for?
-
-- What are some of your personal “rules” that you never break?
-
-- What do you regret not doing or starting when you were younger?
-
-- If you could have a never-ending candle that smelled like anything you wanted, what fragrance would you want it to be?
-
-- What’s the best thing about you?
-
-- What bends your mind every time you think about it?
-
-- What’s the best thing you got from your parents?
-
-- What’s one responsibility you really wish you didn’t have?
-
-- What is the “holy grail” of your life?
-
-- If your childhood had a smell, what would it be?
-
-- What are the top three things you want to accomplish before you die? How close are you to accomplishing them?
-
-- What do you wish you could tell yourself 10 years ago? What do you think you’ll want to tell your current self 10 years from now?
-
-- In your group of friends, what role do you play?
-
-- Among your friends or family, what are you famous for?
-
-- What is the biggest lesson you never learned?
-
-- What’s the most immature thing that you do?
-
-- If your life was a book, what would its title be?
-
-- What’s the best and worst thing about getting older?
-
-- What’s something that happened or something that someone said that changed how you view the world?
-
-- What are you most likely very wrong about?
-
-- If you had a personal flag, what would be on it?
-
-- What lifestyle change have you been meaning to make for a while now?
-
-- What would be your spirit animal?
-
-- What incredibly strong opinion or belief do you have that is completely unimportant in the grand scheme of things?
-
-- What chance encounter changed your life forever?
-
-- If you could have a video of any one event in your life, what event would you choose?
-
-- If you were forced to relive one 10-minute block of your life again and again for all eternity, what 10 minutes of your life would - you choose?
-
-- How do you hope you’ll change as a person in the future?
-
-- What keeps you up at night?
-
-- What’s the most surprising self-realization you’ve had?
-
-- What’s the most illegal thing you’ve done?
-
-- What lie do you tell most often?
-
-- What do you regret not doing?
-
-- What gives your life meaning?
-
-- What do you most often look down on people for? What do you think other people look down on you for?
-
-- What bridges do you not regret burning?
-
-- What are you most insecure about?
-
-- What are you most insecure about?
-
-- How do you get in the way of your own success?
-
-- What’s one thing you did that you really wish you could go back and undo?
-
-- What are you afraid people see when they look at you?
-
-- What excites you the most about 2030?
